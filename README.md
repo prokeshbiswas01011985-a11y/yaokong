@@ -1,2 +1,0 @@
-# yaokong
-Remote Controller Project

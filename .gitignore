@@ -1,0 +1,11 @@
+﻿# Obsidian
+.obsidian/
+.qoder/
+
+# OS
+Thumbs.db
+Desktop.ini
+
+# Build artifacts
+*.hex
+*.bin
